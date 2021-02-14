@@ -6,7 +6,11 @@ import lombok.*;
 import javax.persistence.*;
 
 @Entity
-@Getter @Setter @NoArgsConstructor @ToString @EqualsAndHashCode
+@Getter
+@Setter
+@NoArgsConstructor
+@ToString
+@EqualsAndHashCode
 public class Question {
 
     @Id
@@ -15,7 +19,7 @@ public class Question {
 
     private String questionString;
 
-    private String answerOne;
+    private String answerTrue;
 
-    private String answerTwo;
+    private String answerFalse;
 }
