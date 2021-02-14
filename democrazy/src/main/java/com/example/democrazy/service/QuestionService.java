@@ -1,4 +1,21 @@
 package com.example.democrazy.service;
 
+import com.example.democrazy.dao.QuestionRepository;
+import com.example.democrazy.model.Question;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import java.util.List;
+
 public class QuestionService {
+
+    private final QuestionRepository repository;
+
+    @Autowired
+    public QuestionService(QuestionRepository repository){
+        this.repository = repository;
+    }
+
+    public List<Question> getAllQuestions(){
+        return (List<Question>) repository.findAll();
+    }
 }
