@@ -5,16 +5,9 @@
     <projectFile profileName="WebApplication">WebApplication/WebApplication.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30e16391-7118-4983-900a-18478bad8d42" name="Changes" comment="add Poll">
-      <change afterPath="$PROJECT_DIR$/Democrazy/Controllers/PollController.cs" afterDir="false" />
+    <list default="true" id="30e16391-7118-4983-900a-18478bad8d42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Democrazy/bin/Debug/net5.0/Democrazy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Democrazy/bin/Debug/net5.0/Democrazy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Democrazy/bin/Debug/net5.0/Democrazy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Democrazy/bin/Debug/net5.0/Democrazy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Democrazy/bin/Debug/net5.0/ref/Democrazy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Democrazy/bin/Debug/net5.0/ref/Democrazy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Democrazy/obj/Debug/net5.0/Democrazy.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Democrazy/obj/Debug/net5.0/Democrazy.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Democrazy/obj/Debug/net5.0/Democrazy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Democrazy/obj/Debug/net5.0/Democrazy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Democrazy/obj/Debug/net5.0/Democrazy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Democrazy/obj/Debug/net5.0/Democrazy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Democrazy/obj/Debug/net5.0/ref/Democrazy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Democrazy/obj/Debug/net5.0/ref/Democrazy.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
